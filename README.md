@@ -19,8 +19,8 @@ pip install flask flask_sqlalchemy
 ## 🛠 Setup & Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/pratishtha050903/notes-app.git
-   cd notes-app
+   git clone https://github.com/pratishtha050903/Notes-App.git
+   cd Notes-App
    ```
 
 2. Run the app:
